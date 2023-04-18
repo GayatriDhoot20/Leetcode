@@ -15,3 +15,6 @@ obj1 = Solution()
 print(obj1.twoSum([2, 7, 11, 15], 9))
 print(obj1.twoSum([3, 2, 4], 6))
 print(obj1.twoSum([3, 3], 6))
+
+# Time Complexity is O(n^2)
+# Space Complexity is O(1)
